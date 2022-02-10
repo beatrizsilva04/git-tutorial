@@ -1,1 +1,2 @@
 O meu primeiro documento.
+Segunda linha do meu primeiro documento
